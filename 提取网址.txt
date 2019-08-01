@@ -1,0 +1,8 @@
+# def wz(str1):
+#     a = str1.find('href=\"')+6
+#     b = str1.find('\">')
+#     print(a)
+#     print(b)
+#     print(str1[a:b])
+# str1='<li><a href="http://www.4399dmw.com/haizeiwang/manhua/274923.html">海贼王826话 山治家族姐弟登场</a></li>'
+# wz(str1)
